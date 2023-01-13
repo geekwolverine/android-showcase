@@ -18,7 +18,7 @@ koin = "3.3.2"
 coil = "2.2.2"
 # verison 2.6.0-alpha01 has collectAsStateWithLifecycle
 # https://issuetracker.google.com/issues/230557927?hl=id
-lifecycle = "2.6.0-alpha03"
+lifecycle = "2.6.0-alpha04"
 room = "2.5.0"
 serializationJson = "1.4.1"
 kotlinxSerializationConverter = "0.8.0"
